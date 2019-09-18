@@ -4,4 +4,4 @@ Jupyter notebook RePlutarch_ExplorePub covers primarily NLTK and wordcloud - it 
 
 Jupyter notebook RePlutarch_EmbedPub covers primarily gensim Word2Vec, matplotlib visualization and Tensorflow Projector - it accompanies an article in Towards Data Science (https://towardsdatascience.com/reimagining-plutarch-with-nlp-part-2-dc4e360baa68).
 
-Jupyter notebook RePlutarch_TFembPub covers word embedding layer within TensorFlow 2.0
+Jupyter notebook RePlutarch_TFembPub covers word embedding layer within TensorFlow 2.0 - it accompanies an article in Towards Data Science (https://towardsdatascience.com/reimagining-plutarch-with-tensorflow-2-0-45998bc16feb).
